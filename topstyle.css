@@ -1,0 +1,28 @@
+.top{
+    height: 100px;
+    width: 100%;
+    background-color: orangered;
+}
+.nav{
+    height: 200px;
+    width: 100%;
+    background-color: white;
+    background-image: url(download.jpeg);
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position: center;
+}
+.mail{
+        height: 100px;
+        width: 100%;
+        background-color: green;
+}
+.footer{
+    height: 200px;
+    width: 100%;
+    background-color: red;
+}
+*{
+    margin: 0px;
+    padding: 0px; 
+}
